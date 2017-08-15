@@ -1,6 +1,11 @@
 CHANGELOG
 =========
 
+2.0.1
+-----
+
+* Bump version with updated references
+
 2.0.0
 -----
 
