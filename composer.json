@@ -1,9 +1,9 @@
 {
-    "name": "php-xapi/json-test-fixtures",
+    "name": "entrili-oss/json-test-fixtures",
     "type": "library",
     "description": "common JSON test fixtures for Experience API related packages",
     "keywords": ["xAPI", "Experience API", "Tin Can API", "fixtures", "data fixtures", "test fixtures", "JSON"],
-    "homepage": "https://github.com/php-xapi/json-test-fixtures",
+    "homepage": "https://github.com/entrili-oss/json-test-fixtures",
     "license": "MIT",
     "authors": [
         {
